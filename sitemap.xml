@@ -1,31 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://anahtarci.io/index.html</loc>
-    <lastmod>2016-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anahtarci.io/images/key-512_2x.png</loc>
+    <loc>http://anahtarci.tech/index.html</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anahtarci.io/images/key-512.png</loc>
+    <loc>http://anahtarci.tech/images/key-512_2x.png</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anahtarci.io/images/key-512202x202_2x.png</loc>
+    <loc>http://anahtarci.tech/images/phone1-128.png</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anahtarci.io/images/key-512202x202.png</loc>
+    <loc>http://anahtarci.tech/images/key-512.png</loc>
+    <lastmod>2016-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anahtarci.tech/images/key-512202x202.png</loc>
+    <lastmod>2016-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anahtarci.tech/images/key-512202x202_2x.png</loc>
+    <lastmod>2016-08-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anahtarci.tech/images/phone1-128_2x.png</loc>
     <lastmod>2016-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
