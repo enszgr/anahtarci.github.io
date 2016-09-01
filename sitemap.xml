@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://anahtarci.tech/images/key-512.png</loc>
+    <lastmod>2016-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anahtarci.tech/images/key-512_2x.png</loc>
     <lastmod>2016-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,8 +25,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anahtarci.tech/images/key-512.png</loc>
-    <lastmod>2016-09-01</lastmod>
+    <loc>http://anahtarci.tech/assets/anahtarci_mehmet.png</loc>
+    <lastmod>2016-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

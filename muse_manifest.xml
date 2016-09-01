@@ -1,4 +1,7 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="anahtarci.tech" resolutions="1x,2x" timestamp="1472724023491">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="anahtarci.tech" resolutions="1x,2x" timestamp="1472724564513">
+  <folder name="assets">
+    <file name="anahtarci_mehmet.png" crc="3937184644" seo="true" mt="1472631760000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
     <file name="index.css" crc="484293031" ref="index"/>
