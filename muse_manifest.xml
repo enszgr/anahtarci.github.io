@@ -1,11 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="anahtarci.tech" resolutions="1x,2x" timestamp="1472724564513">
-  <folder name="assets">
-    <file name="anahtarci_mehmet.png" crc="3937184644" seo="true" mt="1472631760000"/>
-  </folder>
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="anahtarci.tech" resolutions="1x,2x" timestamp="1472724736738">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="484293031" ref="index"/>
-    <file name="nomq_index.css" crc="4232395410" ref="index"/>
+    <file name="index.css" crc="44293061" ref="index"/>
+    <file name="nomq_index.css" crc="4002324668" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -27,5 +24,5 @@
     <file name="key-512202x202_2x.png" crc="348787481" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4204686728" seo="true" mt="1472724010779" redirect="true"/>
+  <file name="index.html" crc="4157272543" seo="true" mt="1472724729581" redirect="true"/>
 </manifest>
