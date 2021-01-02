@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="143" viewBox="0 0 143 143">
+  <g id="room_door" data-name="room door" transform="translate(-5440 -2682)">
+    <g id="_019-single-door-3" data-name="019-single-door-3" transform="translate(5444 2688.092)">
+      <path id="Path_35" data-name="Path 35" d="M119.465,131.625V2.761A2.262,2.262,0,0,1,121.726.5h67.823a2.262,2.262,0,0,1,2.261,2.261V131.625Zm0,0" transform="translate(-87.815 -0.5)" fill="#3d324c"/>
+      <path id="Path_36" data-name="Path 36" d="M153.6,34.633h54.258V156.714H153.6Zm0,0" transform="translate(-112.907 -25.59)" fill="#c03a2b"/>
+      <path id="Path_37" data-name="Path 37" d="M223.906,121.253V130.3H187.734V69.256a9.631,9.631,0,0,0,8.075-4.21,12.78,12.78,0,0,1,20.017,0,9.626,9.626,0,0,0,8.079,4.21Zm0,0" transform="translate(-137.997 -44.388)" fill="#802f34"/>
+      <path id="Path_38" data-name="Path 38" d="M189.995,358.9h31.651a2.261,2.261,0,0,1,2.26,2.261v22.607a2.261,2.261,0,0,1-2.26,2.261H189.995a2.261,2.261,0,0,1-2.26-2.261V361.16A2.261,2.261,0,0,1,189.995,358.9Zm0,0" transform="translate(-137.997 -263.947)" fill="#802f34"/>
+      <path id="Path_39" data-name="Path 39" d="M284.371,230.9a6.783,6.783,0,0,0-6.783,6.783,2.261,2.261,0,0,1-2.26,2.261,2.261,2.261,0,1,0,0,4.521,6.783,6.783,0,0,0,6.782-6.783,2.261,2.261,0,1,1,4.521,0,2.261,2.261,0,1,0,4.521,0A6.783,6.783,0,0,0,284.371,230.9Zm0,0" transform="translate(-200.722 -169.858)" fill="#f0c419"/>
+      <path id="Path_40" data-name="Path 40" d="M133.385,491.42H2.261a2.261,2.261,0,1,1,0-4.521H133.385a2.261,2.261,0,1,1,0,4.521Zm0,0" transform="translate(0 -358.035)" fill="#2c3e50"/>
+    </g>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="143" height="143" transform="translate(5440 2682)" fill="none"/>
+  </g>
+</svg>

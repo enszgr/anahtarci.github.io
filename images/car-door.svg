@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="143" viewBox="0 0 143 143">
+  <g id="car_door" data-name="car door" transform="translate(-5104 -2682)">
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="143" height="143" transform="translate(5104 2682)" fill="none"/>
+    <g id="car" transform="translate(5122.033 2689.644)">
+      <path id="Path_23" data-name="Path 23" d="M95.885,12.891H39.814L0,57.378V94.223a20.588,20.588,0,0,0,20.589,20.589h75.3a11.974,11.974,0,0,0,11.974-11.974V24.864A11.974,11.974,0,0,0,95.885,12.891Z" transform="translate(0 0)" fill="#e56353"/>
+      <path id="Path_24" data-name="Path 24" d="M127.881,53.465H75.988L41.571,91.921v7.685H130.51V56.093A2.632,2.632,0,0,0,127.881,53.465Z" transform="translate(-31.996 -31.229)" fill="#27a2db"/>
+      <path id="Path_25" data-name="Path 25" d="M144.055,354.388H61.505a2.336,2.336,0,0,0,0,4.673h82.549a2.336,2.336,0,0,0,0-4.673Z" transform="translate(-45.541 -262.842)" fill="#d54d3c"/>
+      <g id="Group_16" data-name="Group 16" transform="translate(32.542 30.93)">
+        <path id="Path_26" data-name="Path 26" d="M153.067,93.205a1.168,1.168,0,0,0-1.652-1.652l-9.784,9.786a1.168,1.168,0,1,0,1.652,1.652Z" transform="translate(-141.288 -91.211)" fill="#ebf0f3"/>
+        <path id="Path_27" data-name="Path 27" d="M167.23,99.675a1.168,1.168,0,0,0-1.652,0L149.748,115.5a1.168,1.168,0,1,0,1.652,1.652l15.829-15.828A1.168,1.168,0,0,0,167.23,99.675Z" transform="translate(-147.536 -97.463)" fill="#ebf0f3"/>
+      </g>
+      <path id="Path_28" data-name="Path 28" d="M300.347,291.295a1.939,1.939,0,0,0-2.742,0c-2.1,2.1-4.619,1.584-7.438,1.536-2.568-.043-5.436.47-7.442-1.536a1.939,1.939,0,0,0-2.742,2.742c2.807,2.807,6.5,2.63,10.184,2.63s7.373.177,10.18-2.63A1.938,1.938,0,0,0,300.347,291.295Z" transform="translate(-215.059 -213.844)" fill="#2f4859"/>
+    </g>
+  </g>
+</svg>
